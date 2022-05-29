@@ -14,7 +14,7 @@
 <p align="center">
 	<a href="https://t.me/enronnetwork" target="_blank">Let's build! — Enron Community</a>
 	<a href="https://t.me/enronnetwork" target="_blank">
-		<img src="./intro.png" />
+		<img src="./introbanner.png" />
 	</a>
 </p>
 
