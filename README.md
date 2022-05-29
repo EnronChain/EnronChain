@@ -14,9 +14,9 @@
 <p align="center">
 	<a href="https://t.me/enronnetwork" target="_blank">Let's build! — Enron Community</a>
 	<a href="https://t.me/enronnetwork" target="_blank">
-		<img src="./introbanner.png" />
-	</a>
 </p>
+	<img src="./introbanner.png" />
+	</a>
 
 <!--
 <p align="center">
@@ -46,7 +46,7 @@
 		</tr>
 		<tr style="height: 111px;">
 			<td style="width: 10px; height: 111px; text-align: center; vertical-align: middle;">
-				<a href="https://github.com/EnronChain/utils">
+				<a href="https://github.com/EnronChain/Enron">
 					<img src="https://github-readme-stats.vercel.app/api/pin?username=EnronChain&repo=utils&bg_color=45,300743,8a2aa9,9c1b66,b5347c&title_color=fff&text_color=fff&icon_color=fff" width="486" height="146" align="center" />
 				</a>
 			</td>
